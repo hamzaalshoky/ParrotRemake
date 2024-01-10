@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "pr:block/mango_slab"
+    },
+    "type=double": {
+      "model": "pr:block/mango_block"
+    },
+    "type=top": {
+      "model": "pr:block/mango_slab_top"
+    }
+  }
+}

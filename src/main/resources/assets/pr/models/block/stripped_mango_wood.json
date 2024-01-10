@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "pr:block/stripped_mango_log",
+    "side": "pr:block/stripped_mango_log"
+  }
+}
